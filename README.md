@@ -1,6 +1,6 @@
 # Comparative analysis of new approach to discrete Ricci curvature on undirected graphs
 
-This repository contains my mini-projct carried out for the Networks course as part of the MSc Mathematical Sciences at the University of Oxford.
+This repository contains my mini-projct carried out for the *Networks* course as part of the MSc Mathematical Sciences at the University of Oxford.
 
 Several works in recent years have investigated the possibility to characterise the geometry of real-world networks.
 Important questions include the non-Euclidean geometry of network latent spaces, but also measures for the discrete curvature of networks, including the Ollivier-Ricci and Forman-Ricci curvatures.
