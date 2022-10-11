@@ -13,15 +13,9 @@ The project was a form of role-play and as such the report is in the format and 
 
 
 
-In this work, we extend the work of ConvNorm, (explain) adding implementation for WideResnet. We explore the implementation by carying out experiments for various widths of WideResNet-16. The report can be found here.
+In this work, we extend the work of ConvNorm, (explain) adding implementation for WideResnet. We explore the implementation by carying out experiments for various widths of WideResNet-16.
+The report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf)
 
-
-
-
-
-
-
-[here?](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf)
 
 ![plot](./scripts/WS-1000-100-0.5.png)
 
