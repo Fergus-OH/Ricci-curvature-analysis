@@ -5,6 +5,7 @@
 
 or [here?](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf)
 
+
 [embed]Comparative analysis of new approach to discrete Ricci curvature on undirected graphs - Supplementary Information.pdf[/embed]
 
 
