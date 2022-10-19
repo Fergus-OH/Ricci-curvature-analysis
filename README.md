@@ -15,7 +15,7 @@ Ollivier-Ricci and Forman-Ricci curvatures are two well-studied approaches for d
 Recently, a novel approach based on the concept of effective resistance has been introduced, namely resistance curvature.
 This report introduces various notions of discrete Ricci curvature for undirected, weighted graphs and compares those that are well-established with the new resistance curvatures.
 
-The full report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf).
+The full report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf) and Supplementary Information can also be found [here](Supplementary%20Information%20%20Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf).
 
 
 ![plot](./scripts/WS-1000-100-0.5.png)
