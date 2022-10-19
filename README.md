@@ -7,14 +7,15 @@ Important questions include the non-Euclidean geometry of network latent spaces,
 The objective of this mini-project was to write a report on a specific subtopic within the general heading of network geometry.
 The report includes original numerical simulations and a personal description of the mathematical methods.
 (unsupervised)
-The project was a form of role-play and as such the report is in the format and style of an article for the journal Proceedings of the National Academy of Sciences (PNAS), but the report was not in fact submitted to PNAS for publication.
+The project was entirely independent and had a role-play element to it.
+As such, the report is in the format and style of an article for the journal Proceedings of the National Academy of Sciences (PNAS), but the report was not in fact submitted to PNAS for publication.
 
+### Abstract
+Ollivier-Ricci and Forman-Ricci curvatures are two well-studied approaches for discretising Ricci curvature for nodes and links of graphs.
+Recently, a novel approach based on the concept of effective resistance has been introduced, namely resistance curvature.
+This report introduces various notions of discrete Ricci curvature for undirected, weighted graphs and compares those that are well-established with the new resistance curvatures.
 
-
-
-
-In this work, we extend the work of ConvNorm, (explain) adding implementation for WideResnet. We explore the implementation by carying out experiments for various widths of WideResNet-16.
-The report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf)
+The full report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf).
 
 
 ![plot](./scripts/WS-1000-100-0.5.png)
