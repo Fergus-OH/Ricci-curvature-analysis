@@ -7,8 +7,8 @@ Important questions include the non-Euclidean geometry of network latent spaces,
 The objective of this mini-project was to write a report on a specific subtopic within the general heading of network geometry.
 The report includes original numerical simulations and a personal description of the mathematical methods.
 (unsupervised)
-The project was entirely independent and had a role-play element to it.
-As such, the report is in the format and style of an article for the journal Proceedings of the National Academy of Sciences (PNAS), but the report was not in fact submitted to PNAS for publication.
+The project was compltetely independent and also had a role-play element to it.
+As such, the report is in the format and style of an article for the journal Proceedings of the National Academy of Sciences (PNAS) but note that the report was not submitted to PNAS.
 
 ### Abstract
 Ollivier-Ricci and Forman-Ricci curvatures are two well-studied approaches for discretising Ricci curvature for nodes and links of graphs.
@@ -21,12 +21,3 @@ The full report can be found [here](Comparative%20analysis%20of%20new%20approach
 <p align="center">
   <img src="./scripts/WS-1000-100-0.5.png"/>
 </p>
-
-
-
-
-
-
-
-
-
