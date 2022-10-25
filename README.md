@@ -18,8 +18,9 @@ This report introduces various notions of discrete Ricci curvature for undirecte
 The full report can be found [here](Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf) and Supplementary Information can also be found [here](Supplementary%20Information%20-%20Comparative%20analysis%20of%20new%20approach%20to%20discrete%20Ricci%20curvature%20on%20undirected%20graphs.pdf).
 
 
-
-![plot](./scripts/WS-1000-100-0.5.png)
+<p align="center">
+  <img src="./scripts/WS-1000-100-0.5.png"/>
+</p>
 
 
 
